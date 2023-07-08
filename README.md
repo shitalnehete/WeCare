@@ -19,6 +19,3 @@ It is a web application that provides health resources and a chat feature for em
 # Flowchart
 ![WeCare Flowchart](images/Flowchart.png)
 
-# Acknowledgements
-We would like to thank all the contributors and developers who have made this project possible. Your efforts and support are greatly appreciated.
-
